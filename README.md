@@ -3,7 +3,7 @@
 ###Team Recursive
 
 ###Team Members
-* Kevin Huang
+* Kevin Huang - Merge Master
 * David Rothschild
 * Gary Wong
 * Timur Catakli
